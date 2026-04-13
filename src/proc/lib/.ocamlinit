@@ -1,5 +1,5 @@
-open Proc.Interp;;
-open Proc.Ds;;
+open Procs.Interp;;
+open Procs.Ds;;
 open Parser_plaf.Ast;;
 open Parser_plaf.Parser;;
 (* Added by OPAM. *)

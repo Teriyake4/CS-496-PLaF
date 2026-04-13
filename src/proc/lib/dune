@@ -2,9 +2,9 @@
 
 
 (library
- (name proc)        ; name of the opam library
+ (name procs)        ; name of the opam library
  (libraries parser_plaf)
- (public_name proc) ; required for generating documentation
+ (public_name procs) ; required for generating documentation
  (synopsis "Interpreter for PROC")
  ;; (wrapped      false) ; true by default
  )

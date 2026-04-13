@@ -1,7 +1,7 @@
 (lang dune 3.2)
 (using menhir 2.0)
 
-(name proc)
+(name procs)
 
 (generate_opam_files true)
 
@@ -17,7 +17,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name proc)
+ (name procs)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)
